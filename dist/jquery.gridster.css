@@ -1,4 +1,4 @@
-/*! gridster.js - v0.5.7-iw - 2021-01-14
+/*! gridster.js - v0.5.8-iw - 2021-02-05
 * http://gridster.net/
 * Copyright (c) 2021 ducksboard; Licensed MIT */
 
