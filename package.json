@@ -22,8 +22,8 @@
     }
   ],
   "keywords": [],
-  "dependencies": {
-    "jquery": "^2.2.4"
+  "peerDependencies": {
+    "jquery": "^2.1.4"
   },
   "devDependencies": {
     "grunt": "~0.4.1",
